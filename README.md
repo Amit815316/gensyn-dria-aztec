@@ -9,6 +9,14 @@ Move your old swarm file to vps by SFTP or use the bleow command directly if you
 ```bash
 ./run_rl_swarm.sh
 ```
+Install Localtunnel
+```
+npm install -g localtunnel
+```
+Get link for login
+```
+lt --port 3000
+```
 
 
 AZTEC
