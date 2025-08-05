@@ -11,7 +11,7 @@ Move your old swarm file to vps by SFTP or use the bleow command directly if you
 ```
 Install Localtunnel
 ```
-npm install -g localtunnel
+sudo npm install -g localtunnel
 ```
 Get link for login
 ```
